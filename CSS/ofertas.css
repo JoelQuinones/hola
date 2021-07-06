@@ -1,0 +1,41 @@
+body{
+	background-color: #DC2A02; 
+}
+.header{
+	background-color: #1F1F21;
+}
+.headerLogo img{
+	width: 200px;
+}
+.headerTitulos h1{
+	color: white;
+	font-family: 'Spectral SC', serif;
+	letter-spacing: 10px;
+	text-align: center;
+	font-style: italic;
+}
+.headerNav{
+	background-color: #CC7A2E;
+}
+.headerNav li{
+	font-family: 'Spectral', serif;
+	text-align: center;
+	list-style-position: inside;
+	list-style-type: square;
+}
+.descuentos, .ofertas{
+	background-color: #CC7A2E;
+}
+.tablaTitulo{
+	background-color: #1F1F21;
+}
+td{
+	font-family: 'Spartan', sans-serif;
+	color: black;
+}
+.lista{
+	background-color: #CC7A2E;
+}
+.tablaH3{
+	background-color: #1F1F21;
+}
